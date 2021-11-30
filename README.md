@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### whoamins ^_^
+### StrangeArcturus, or also just Arc
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StrangeArcturus&show_icons=true&theme=radical)
 ***
