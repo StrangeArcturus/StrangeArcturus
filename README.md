@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### StrangeArcturus, or also just Arc
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StrangeArcturus&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StrangeArcturus)](https://github.com/anuraghazra/github-readme-stats)
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StrangeArcturus&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 ***
